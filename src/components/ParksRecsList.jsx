@@ -1,9 +1,10 @@
 import React from 'react';
 import ParksRecsSpace from './ParksRecsSpace';
+import './styles/ParksRecsList.css';
 
 const ParksRecsList = () => {
   return (
-    <div>
+    <div className='ParksRecsList'>
       <ParksRecsSpace
         name='City Centre Community Centre'
         address='5900 Minoru Blvd.'

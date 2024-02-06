@@ -1,9 +1,9 @@
 import React from 'react';
-
+import './styles/ParksRecsSpace.css';
 const ParksRecsSpace = (props) => {
   const { name, image, address } = props;
   return (
-    <div>
+    <div className='ParksRecsSpace'>
       <img
         src={`${process.env.PUBLIC_URL}/assetphotos/${image}`}
         width='300'

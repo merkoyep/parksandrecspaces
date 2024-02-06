@@ -1,0 +1,9 @@
+.ParksRecsSpace {
+  width: 100%;
+  text-align: center;
+}
+
+.ParksRecsSpace > img {
+  width: 100%;
+  height: auto;
+}
