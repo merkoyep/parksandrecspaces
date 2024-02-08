@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Britannia Shipyards National Historic Site",
+    "desc": "Britannia Shipyards is an authentic representation of a once thriving community of canneries, boat yards and residences. Many of the buildings date back to 1885 and tell the stories of multi-ethnic residents and workers at the Britannia Cannery and Britannia Shipyards: Chinese, European, First Nations and Japanese. This collection of buildings has national value and was designated a National Historic Site in 1991 by the National Historic Sites and Monuments Board.",
+    "address": "5180 Westwater Drive, Richmond BC",
+    "hours": "Tue - Sun 10am - 4pm",
+    "geo": {
+      "lat": 49.12106,
+      "lon": -123.16753
+    },
+    "images": ["britannia.jpeg"],
+    "website": "https://stevestonheritage.ca/visit/britannia-shipyards-national-historic-site/",
+    "features": ["artifacts", "culture", "exhibits"]
+  },
+  {
+    "title": "Terra Nova Rural Park",
+    "desc": "Terra Nova Rural Park is a 63 acre site offering immersive natural experiences, walks among farms and gardens, and gorgeous views of the Salish Sea. Located along the Pacific Flyway and adjacent to the Sturgeon Bank Wildlife Management Area, the park counts large numbers of migratory birds among its fauna. Ongoing agricultural activities, historic hedgerows, and heritage buildings offer a nod to Terra Nova’s farming past that included an operating cannery until the middle of the 20th century. ",
+    "address": "2631 Westminster Hwy. Richmond BC",
+    "hours": "Dawn to Dusk",
+    "geo": {
+      "lat": 49.17175,
+      "lon": -123.19602
+    },
+    "images": ["terranova.jpeg"],
+    "website": "https://www.richmond.ca/parks-recreation/parks/parksearch//park.aspx?ID=80",
+    "features": ["heritage site", "views", "wildlife"]
+  },
+  {
+    "title": "Minoru Park Complex",
+    "desc": "Minoru Park, the green heart of Richmond’s City Centre, features a huge variety of things to see and do. There are a variety of walking routes throughout the park including quiet, meandering walks around Minoru Lakes with beautiful floral displays and majestic trees. The very first flight in British Columbia took off in 1910 on the racetrack in Minoru park! Other places of historic significance include the Minoru Chapel, originally built in 1891 and moved to its current location in 1968. Also check out the Minoru Centre for Active Living, featuring a huge fitness centre, pools, and sauna facilities.",
+    "address": "7191 Granville Ave. Richmond, BC",
+    "hours": "Dawn to Dusk",
+    "geo": {
+      "lat": 49.16292,
+      "lon": -123.14401
+    },
+    "images": ["minorupark.jpeg"],
+    "website": "https://www.richmond.ca/parks-recreation/parks/parksearch/park.aspx?ID=68",
+    "features": ["pond", "heritage site", "track"]
+  },
+  {
+    "title": "Garry Point Park",
+    "desc": "Garry Point Park, originally settled by the Musqueam first peoples before being expelled by colonialism, is currently a City owned waterfront park. During its history, the coastline was once home to canneries, docs, and boat building warehouses. Over the years, Richmond residents tell stories of skating on the frozen pond, playing on the sand dunes, and watching the cherry blossoms bloom in the springtime. The park provides spectacular vistas across the Salish Sea and beyond to Vancouver Island and the Gulf Islands. Garry Point Park is considered by many to be one of the best places to watch a sunset in Richmond.",
+    "address": "12011 7th Ave. Richmond, BC",
+    "hours": "Dawn to Dusk",
+    "geo": {
+      "lat": 49.1264,
+      "lon": -123.19192
+    },
+    "images": ["garrypoint.jpeg"],
+    "website": "https://www.richmond.ca/parks-recreation/parks/parksearch/park.aspx?ID=17",
+    "features": ["outdoors", "toilet", "coffee"]
+  },
+  {
+    "title": "Richmond Olympic Oval",
+    "desc": "The Richmond Olympic Oval is an indoor multi-sports arena in the Canadian city of Richmond, British Columbia. The oval was built for the 2010 Winter Olympics and was originally configured with a speed skating rink. The venue has since been reconfigured and now serves as a community multi-sport park and includes the Richmond Olympic Experience: a multi-sensory exhibit of the past, present and future of sport.",
+    "address": "6111 River Rd. Richmond, BC",
+    "hours": "M-F: 6:00am - 11:00pm, Weekends: 7:00am - 9:00pm",
+    "geo": {
+      "lat": 49.17447,
+      "lon": -123.15195
+    },
+    "images": ["olympicoval.jpeg"],
+    "website": "https://richmondoval.ca/fitness/membership/?utm_source=dv360-pt&utm_medium=search&utm_content=2024MM&utm_campaign=brandawareness&gad_source=1&gclid=CjwKCAiAlJKuBhAdEiwAnZb7lYsdFzClKdqde1qcSlxTrXXlj2s-WE43bu0D2iCWneZ9H3nhy0dk_BoCoOoQAvD_BwE&gclsrc=aw.ds",
+    "features": ["fitness", "museum", "climbing"]
+  },
+  {
+    "title": "Richmond Nature Park",
+    "desc": "The Richmond Nature Park consists of 200 acres of the raised peat bog habitat that highlights the ecological landscape of pre-settlement Lulu Island. Four walking trails totalling 5 kilometres provide visitors the chance to encounter plants and animals in bog, forest and pond habitats. The park is always changing. In spring, visitors can see and hear the territorial fights of hummingbirds as bog flowers bloom below. Summer days are long and the trails are ideal for an evening stroll. Autumn brings owls, northern migratory birds and spectacularly coloured foliage. In winter, visitors can hear varied thrushes and see winter birds at the feeders or follow animal tracks in the snow.",
+    "address": "11851 Westminster Hwy, Richmond, BC",
+    "hours": "Dawn to Dusk",
+    "geo": {
+      "lat": 49.17019272,
+      "lon": -123.0997391
+    },
+    "images": ["naturepark.jpeg"],
+    "features": ["outdoors", "art", "coffee"]
+  }
+]

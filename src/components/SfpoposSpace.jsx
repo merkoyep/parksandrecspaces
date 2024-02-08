@@ -1,9 +1,9 @@
 import React from 'react';
-import './styles/ParksRecsSpace.css';
-const ParksRecsSpace = (props) => {
-  const { name, image, address } = props;
+import './styles/SfpoposSpace.css';
+const SfpoposSpace = (props) => {
+  const { name, image, address, hours } = props;
   return (
-    <div className='ParksRecsSpace'>
+    <div className='SfpoposSpace'>
       <img
         src={`${process.env.PUBLIC_URL}/assetphotos/${image}`}
         width='300'
@@ -12,8 +12,9 @@ const ParksRecsSpace = (props) => {
       />
       <h1>{name}</h1>
       <p>{address}</p>
+      <p>Hours: {hours}</p>
     </div>
   );
 };
 
-export default ParksRecsSpace;
+export default SfpoposSpace;
