@@ -33,7 +33,6 @@ const SfpoposList = () => {
           placeholder='search'
           onChange={(e) => setQuery(e.target.value)}
         />
-        <button type='submit'>Submit</button>
       </form>
       <div className='SfpoposList'>{spaces}</div>
     </div>
