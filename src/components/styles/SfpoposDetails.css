@@ -1,0 +1,33 @@
+.SfpoposDetails {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 960px;
+  margin: auto;
+}
+
+.SfpoposDetails .SfpoposDetails-info {
+  flex: 1;
+  text-align: left;
+  padding: 0 1em;
+}
+
+.SfpoposDetails .SfpoposDetails-title {
+  font-size: 2em;
+  margin: 0;
+}
+
+.SfpoposDetails .SfpoposDetails-image {
+  flex: 2;
+}
+
+.SfpoposDetails .SfpoposDetails-image img {
+  width: 100%;
+}
+
+.SfpoposDetails .SfpoposDetails-hours {
+  font-size: 1.5em;
+}
+
+.SfpoposFeatureList {
+  display: flex;
+}

@@ -1,10 +1,31 @@
 import React from 'react';
 import './styles/Title.css';
+import { NavLink } from 'react-router-dom';
+import RandomSpace from './RandomSpace/RandomSpace';
 
 const Title = () => {
   return (
     <div className='Title'>
-      <h1>Parks and Rec Asset Map</h1>
+      <h1>Richmond Public Sites</h1>
+      <div>
+        <NavLink
+          className={({ isActive }) =>
+            isActive ? 'nav-link-active' : 'nav-link'
+          }
+          to='/'
+        >
+          List
+        </NavLink>
+        <NavLink
+          className={({ isActive }) =>
+            isActive ? 'nav-link-active' : 'nav-link'
+          }
+          to='/about'
+        >
+          About
+        </NavLink>
+        <RandomSpace />
+      </div>
     </div>
   );
 };

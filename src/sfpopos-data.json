@@ -10,7 +10,7 @@
     },
     "images": ["britannia.jpeg"],
     "website": "https://stevestonheritage.ca/visit/britannia-shipyards-national-historic-site/",
-    "features": ["artifacts", "culture", "exhibits"]
+    "features": ["waterfront", "sunset", "museum"]
   },
   {
     "title": "Terra Nova Rural Park",
@@ -23,7 +23,7 @@
     },
     "images": ["terranova.jpeg"],
     "website": "https://www.richmond.ca/parks-recreation/parks/parksearch//park.aspx?ID=80",
-    "features": ["heritage site", "views", "wildlife"]
+    "features": ["trails", "waterfront", "wildlife"]
   },
   {
     "title": "Minoru Park Complex",
@@ -36,7 +36,7 @@
     },
     "images": ["minorupark.jpeg"],
     "website": "https://www.richmond.ca/parks-recreation/parks/parksearch/park.aspx?ID=68",
-    "features": ["pond", "heritage site", "track"]
+    "features": ["fitness", "trails", "wildlife"]
   },
   {
     "title": "Garry Point Park",
@@ -49,20 +49,20 @@
     },
     "images": ["garrypoint.jpeg"],
     "website": "https://www.richmond.ca/parks-recreation/parks/parksearch/park.aspx?ID=17",
-    "features": ["outdoors", "toilet", "coffee"]
+    "features": ["waterfont", "flowers", "sunset"]
   },
   {
     "title": "Richmond Olympic Oval",
     "desc": "The Richmond Olympic Oval is an indoor multi-sports arena in the Canadian city of Richmond, British Columbia. The oval was built for the 2010 Winter Olympics and was originally configured with a speed skating rink. The venue has since been reconfigured and now serves as a community multi-sport park and includes the Richmond Olympic Experience: a multi-sensory exhibit of the past, present and future of sport.",
     "address": "6111 River Rd. Richmond, BC",
-    "hours": "M-F: 6:00am - 11:00pm, Weekends: 7:00am - 9:00pm",
+    "hours": "M-F: 6am - 11pm, Sat-Sun: 7am - 9pm",
     "geo": {
       "lat": 49.17447,
       "lon": -123.15195
     },
     "images": ["olympicoval.jpeg"],
     "website": "https://richmondoval.ca/fitness/membership/?utm_source=dv360-pt&utm_medium=search&utm_content=2024MM&utm_campaign=brandawareness&gad_source=1&gclid=CjwKCAiAlJKuBhAdEiwAnZb7lYsdFzClKdqde1qcSlxTrXXlj2s-WE43bu0D2iCWneZ9H3nhy0dk_BoCoOoQAvD_BwE&gclsrc=aw.ds",
-    "features": ["fitness", "museum", "climbing"]
+    "features": ["waterfont", "museum", "fitness"]
   },
   {
     "title": "Richmond Nature Park",
@@ -74,6 +74,6 @@
       "lon": -123.0997391
     },
     "images": ["naturepark.jpeg"],
-    "features": ["outdoors", "art", "coffee"]
+    "features": ["wildlife", "trails", "flowers"]
   }
 ]

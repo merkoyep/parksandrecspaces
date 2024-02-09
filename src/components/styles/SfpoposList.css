@@ -1,7 +1,50 @@
+.SfpoposList-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
 .SfpoposList {
   width: calc(100% - 80px);
   margin: auto;
   display: grid;
+  max-width: 1200px;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 40px;
+  grid-gap: 2em;
+}
+
+/* Smaller screens and tablets */
+@media only screen and (max-width: 960px) {
+  .SfpoposList {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+/* Small screens mobile */
+@media only screen and (max-width: 700px) {
+  .SfpoposList {
+    grid-template-columns: 1fr;
+  }
+}
+
+.SfpoposList form {
+  display: flex;
+  align-items: flex-start;
+}
+
+.SfpoposList form input,
+.SfpoposList form button {
+  padding: 1em;
+  margin: 0;
+  border: 1px solid;
+  font-size: 1rem;
+}
+
+.SfpoposList form input {
+  flex: 1;
+  border-top-left-radius: 0.5em;
+  border-bottom-left-radius: 0.5em;
+}
+
+.SfpoposList form button {
+  border-top-right-radius: 0.5em;
+  border-bottom-right-radius: 0.5em;
 }
