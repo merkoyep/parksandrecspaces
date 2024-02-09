@@ -6,8 +6,8 @@ import RandomSpace from './RandomSpace/RandomSpace';
 const Title = () => {
   return (
     <div className='Title'>
-      <h1>Richmond Public Sites</h1>
-      <div>
+      <h1>Richmond BC Public Heritage Sites</h1>
+      <div className='navbar'>
         <NavLink
           className={({ isActive }) =>
             isActive ? 'nav-link-active' : 'nav-link'
