@@ -49,7 +49,7 @@
     },
     "images": ["garrypoint.jpeg"],
     "website": "https://www.richmond.ca/parks-recreation/parks/parksearch/park.aspx?ID=17",
-    "features": ["waterfont", "flowers", "sunset"]
+    "features": ["waterfront", "flowers", "sunset"]
   },
   {
     "title": "Richmond Olympic Oval",
@@ -62,7 +62,7 @@
     },
     "images": ["olympicoval.jpeg"],
     "website": "https://richmondoval.ca/fitness/membership/?utm_source=dv360-pt&utm_medium=search&utm_content=2024MM&utm_campaign=brandawareness&gad_source=1&gclid=CjwKCAiAlJKuBhAdEiwAnZb7lYsdFzClKdqde1qcSlxTrXXlj2s-WE43bu0D2iCWneZ9H3nhy0dk_BoCoOoQAvD_BwE&gclsrc=aw.ds",
-    "features": ["waterfont", "museum", "fitness"]
+    "features": ["waterfront", "museum", "fitness"]
   },
   {
     "title": "Richmond Nature Park",
