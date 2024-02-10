@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/parksandrec/static/css/main.c57c0b26.css",
-    "main.js": "/parksandrec/static/js/main.b9384e48.js",
-    "static/js/592.41f97bad.chunk.js": "/parksandrec/static/js/592.41f97bad.chunk.js",
-    "index.html": "/parksandrec/index.html",
-    "main.c57c0b26.css.map": "/parksandrec/static/css/main.c57c0b26.css.map",
-    "main.b9384e48.js.map": "/parksandrec/static/js/main.b9384e48.js.map",
-    "592.41f97bad.chunk.js.map": "/parksandrec/static/js/592.41f97bad.chunk.js.map"
+    "main.css": "/parksandrecspaces/static/css/main.c57c0b26.css",
+    "main.js": "/parksandrecspaces/static/js/main.2ddc25c1.js",
+    "static/js/592.362d26e0.chunk.js": "/parksandrecspaces/static/js/592.362d26e0.chunk.js",
+    "index.html": "/parksandrecspaces/index.html",
+    "main.c57c0b26.css.map": "/parksandrecspaces/static/css/main.c57c0b26.css.map",
+    "main.2ddc25c1.js.map": "/parksandrecspaces/static/js/main.2ddc25c1.js.map",
+    "592.362d26e0.chunk.js.map": "/parksandrecspaces/static/js/592.362d26e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c57c0b26.css",
-    "static/js/main.b9384e48.js"
+    "static/js/main.2ddc25c1.js"
   ]
 }
