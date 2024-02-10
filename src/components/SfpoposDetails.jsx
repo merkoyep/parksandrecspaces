@@ -15,7 +15,7 @@ function POPOSDetails(props) {
     <div className='SfpoposDetails'>
       <div className='SfpoposDetails-image'>
         <img
-          src={`${process.env.PUBLIC_URL}assetphotos/${images[0]}`}
+          src={`${process.env.PUBLIC_URL}/assetphotos/${images[0]}`}
           alt={title}
         />
       </div>
